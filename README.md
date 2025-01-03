@@ -1,4 +1,7 @@
 # Kunai
+
+Run from terminal with command: .\kunai-NEO
+
 Kunai is a fast modular searcher written in Rust. It has functions for buying, selling, creating coins in pumpfun, sniping in radyum and copy trading
 
 A terminal-based sniping bot is a command-line tool designed to automate the rapid purchase (sniping) of newly listed tokens on blockchain networks like Solana or Ethereum. These bots monitor decentralized exchanges (DEXs) for new token listings and execute buy orders within milliseconds of a token's launch, aiming to capitalize on early investment opportunities.
